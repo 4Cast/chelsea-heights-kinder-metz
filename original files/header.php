@@ -261,12 +261,7 @@
                 <li class="<?php if($file_name=="contact.php"){echo 'active';}?>"><a href="<?php echo $default_path;?>contact">CONTACT US</a></li>
 	        </ul> 
 		</div>
-		<div id="announce" style="background-color:#ce4b8d; padding-top:15px; padding-bottom:15px;">
-		<div class="row" style="font-family:Arial,Helvetica,sans-serif; font-size:15px; text-align: center; color:white">
-		During renovations to our Third Ave site we will be operating from the old Chelsea Kindergarten building at 71 Catherine Ave Chelsea.<br>
-		We expect to be back in our refurbished building at Third Ave at the beginning of Term 2, 2018.
-		</div>
-		</div>
+		
 		<div id="header-section">
 			<div class="row" id="header">
 				<div class="large-3 medium-3 columns hide-for-small">
