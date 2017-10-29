@@ -1,0 +1,140 @@
+#slideshow .cycle-slideshow,
+#slideshow .columns
+{
+	padding: 0px;
+}
+#home-shop-row .columns img
+{
+	width: 100%;
+}
+#index-home table
+{
+	width: 100%;
+}
+#index-home .home-tile
+{
+	width: 90%;
+}
+#index-home #tile-widgets
+{
+	left: 0px;
+}
+#slideshow,
+#home-tile
+{
+    /*background-image: url("../images/header/IMAGE_BACKGROUND.jpg");*/
+    background-repeat:repeat-x;
+}
+#home-tile
+{
+	padding:40px 0;
+}
+#index-home
+{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.link-image
+{
+	width:100%;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+}
+.home-tile span
+{
+    bottom: 7.5%;
+    color: #F04A5E;
+    font-size: 25px;
+    left: 25%;
+    position: absolute;
+    width: 100%;
+}
+
+.news-home
+{
+	margin-top:20px;
+	background-color: #EDEDED;
+	padding:20px 0;
+}
+.news-home h2
+{
+	margin-bottom:10px;
+	width:90%;
+	font-size:25px !important;
+	color:#FF992A;
+	border-bottom: 3px solid #B1B1B1;
+}
+.news-widget
+{
+	position:relative;
+	padding:0 20px 0 0;
+	border-right: 3px solid #fff;
+}
+.dp-widget
+{
+	position:relative;
+	padding:0 20px;
+}
+.dp-widget ul
+{
+	margin: 0px;
+	padding: 0px;
+}
+.dp-widget li
+{
+	background-image: url("../images/icons/icon.png");
+	background-repeat: no-repeat;
+	list-style-type:none;
+	padding-left: 30px;
+	padding-bottom: 20px;
+}
+.for-doctors
+{
+	margin-top: 20px !important;
+}
+.dp-widget li a
+{
+	color:#666666;
+}
+.news-item-home
+{
+	line-height:25px;
+	color:#666666;
+	font-size: 80%;
+	margin-bottom:15px;
+}
+.news-item-home h3
+{
+	font-size:24px;
+	margin: 0px;
+	color:#666666;
+}
+.news-item-home a
+{
+	padding-top:5px;
+	display:block;
+	color:#eb7b26;
+}
+#latest-news-image
+{
+    position: absolute;
+    right: 9px;
+    top: 5px;
+    z-index: 100;
+}
+#patients-image
+{
+    position: absolute;
+    right: 25px;
+    top: 8px;
+    z-index: 100;
+}
+#doctors-image
+{
+    position: absolute;
+    right: 25px;
+    top: 147px;
+    z-index: 100;
+}

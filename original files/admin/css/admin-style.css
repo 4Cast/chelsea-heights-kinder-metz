@@ -1,0 +1,283 @@
+@CHARSET "ISO-8859-1";
+#files ul
+{
+	margin: 0px;
+}
+.sf-menu li ul li a
+{
+	padding: 5px;
+}
+#files li
+{
+	padding: 10px 0;
+	border-bottom: 1px solid #DDDDDD;
+	list-style-type: none;
+}
+#tabs table
+{
+	width: 100%;
+}
+input[type="submit"]
+{
+	float: right;
+}
+#staff ul li
+{
+	border-bottom:1px solid ;
+	list-style-type: none;
+}
+.row table
+{
+	width:100%;
+}
+.hidden
+{
+	display: none;
+}
+.link-li 
+{
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    margin: 0;
+    overflow: hidden;
+    padding: 10px;
+}
+.link-li li
+{
+	margin-bottom:0px !important;
+	float:left;
+	padding-right:30px;
+	list-style-type:none;
+}
+.link-li li.active
+{
+	font-weight: bold;
+	text-decoration: underline;
+}
+.link-li li#new
+{
+	float: right;
+	font-weight: bold;
+}
+.pull-right
+{
+	float:right;
+}
+.main-content
+{
+	margin-top: 20px;
+	z-index: 0;
+}
+.sf-menu
+{
+	margin: 0px;
+}
+.admin table
+{
+	width:100%;
+}
+.admin li
+{
+	margin-bottom: 10px;
+}
+.ui-state-active .ui-icon
+{
+	background: none;
+}
+.jquery-accordion h3
+{
+	padding: 10px;
+}
+.jquery-accordion h3 span
+{
+	float: right;
+	color:red;
+}
+.red, .red a
+{
+	color:red;
+	font-weight: bold;
+}
+.jquery-accordion .ui-accordion-header
+{
+	background: #F0F0F0 !important;
+}
+.ui-state-default .ui-icon
+{
+	background:none;
+}
+.jquery-accordion .ui-accordion-content
+{
+	padding: 10px;
+	min-height: 250px;
+}
+.jquery-accordion .ui-state-hover,
+.jquery-accordion .ui-widget-content .ui-state-hover,
+.jquery-accordion .ui-widget-header .ui-state-hover,
+.jquery-accordion .ui-state-focus,
+.jquery-accordion .ui-widget-content .ui-state-focus,
+.jquery-accordion .ui-widget-header .ui-state-focus
+{
+	background-color: #F0F0F0;
+}
+#top-row 
+{
+    background-color: #56C9EA;
+    height: 51px;
+    width: 100%;
+    z-index: 1;
+}
+.error-border
+{
+	border: 3px solid #F64A49 !important;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) inset, 0 0 8px rgba(82, 168, 236, 0.6) !important;
+}
+.success-border
+{
+	border: 3px solid #369E07 !important;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) inset, 0 0 8px rgba(82, 168, 236, 0.6) !important;
+}
+div.error_class, div.error-class 
+{
+	background-color: #FFCECE;
+	background-image: url("../../images/icons/error.png");
+	background-position: 8px 13px;
+	background-repeat: no-repeat;
+	border-radius: 5px 5px 5px 5px;
+	color: #DD4100;
+	padding: 20px 20px 20px 46px;
+	margin: 20px 0;
+    border: 3px solid #E84C32 !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+}
+div.success_class, div.success-class
+{
+	border: 3px solid #B0DA44 !important;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) inset, 0 0 8px
+		rgba(82, 168, 236, 0.6);
+	background-color: #D5ED95;
+	background-image: url("../../images/icons/yes.png");
+	background-position: 8px 13px;
+	background-repeat: no-repeat;
+	border-radius: 5px 5px 5px 5px;
+	color: #000;
+	padding: 20px 20px 20px 46px;
+	margin: 20px 0;
+}
+
+
+#blurb TEXTAREA 
+{
+	min-height: 300px;	
+}
+
+
+#tiles .tile
+{
+	padding: 10px 0;
+	cursor: pointer;
+}
+#display-photo-form
+{
+   left: -99999px;
+    position: absolute;
+}
+.folio-images img
+{
+	max-width: 480px;
+}
+select, input[type="file"]
+{
+	width: auto;
+}
+form,
+section
+{
+	overflow: hidden;
+}
+form section TEXTAREA
+{
+	min-height:100px; 
+}
+form section div
+{
+	float: left;
+}
+form section div:FIRST-CHILD 
+{
+	width: 40%;
+	text-align: right;
+	padding-right:1%;	
+}
+.ul-dropdown .sub_menu
+{
+	z-index: 1000;
+}
+.ul-dropdown .sub_menu li
+{
+	float: none;
+	padding: 5px 0
+}
+
+.top-nav
+{
+	background-color: #000;
+}
+.top-nav ul li
+{
+	list-style: none;
+	float: left;
+}
+.top-nav ul li a
+{
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 0 25px 0 0;
+}
+.sub_menu
+{
+	position: absolute;
+	background-color: #000;
+}
+.sub_menu li a
+{
+	padding: 20px !important;
+}
+#background_color_div
+{
+	width:32px;
+	height: 32px;
+	display: inline;
+	float: left;
+}
+#background_color
+{
+	width:150px;
+}
+
+
+
+#categories li
+{
+	list-style-type: none;
+}
+#categories li input
+{
+}
+#categories li input.amount
+{
+	width:50px !important;
+}
+#categories li input[type='text']
+{
+	display:block;
+	width:500px;
+}
+#upload-pdfs p
+{
+	border-bottom: 1px solid #F0F0F0;
+}
+#upload-pdfs input
+{
+	float: right;
+}

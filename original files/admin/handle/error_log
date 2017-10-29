@@ -1,0 +1,126 @@
+[29-Jan-2017 13:41:19 Australia/Melbourne] PHP Notice:  Undefined variable: image_name in /home/s1091257/public_html/admin/handle/page-tiles.php on line 26
+[12-Feb-2017 21:49:59 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[12-Feb-2017 21:50:28 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[12-Feb-2017 21:50:38 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[12-Feb-2017 21:51:06 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[23-Feb-2017 00:41:44 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[23-Feb-2017 00:49:27 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[27-Feb-2017 19:12:02 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[27-Feb-2017 19:13:00 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 00:48:09 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[02-Mar-2017 00:53:12 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[02-Mar-2017 00:53:26 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[02-Mar-2017 00:54:38 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[02-Mar-2017 01:18:27 Australia/Melbourne] PHP Notice:  Undefined index: background_color in /home/s1091257/public_html/admin/handle/index.php on line 11
+[02-Mar-2017 01:20:15 Australia/Melbourne] PHP Notice:  Undefined variable: actual_image_name in /home/s1091257/public_html/admin/handle/gallery.php on line 47
+[02-Mar-2017 22:56:14 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:56:35 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:56:52 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:57:12 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:57:28 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:57:46 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:58:01 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:58:16 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:58:30 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:58:48 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:59:04 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:59:27 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 22:59:42 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:00:15 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:00:38 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:01:02 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:01:19 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:01:36 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:01:38 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:02:02 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:02:20 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:02:45 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:02:57 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:03:08 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:03:23 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:03:48 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:04:04 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:04:24 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:04:54 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:05:29 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:06:02 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:06:55 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:07:27 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:07:53 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:09:20 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:10:22 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:10:44 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:11:09 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:11:25 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:11:38 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:11:51 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:12:05 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:12:18 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:44:36 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:44:45 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:45:00 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:45:12 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:45:29 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[02-Mar-2017 23:45:37 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[27-Mar-2017 20:54:14 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[27-Mar-2017 20:54:45 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/upload-files.php on line 34
+[06-Apr-2017 23:15:01 Australia/Melbourne] PHP Notice:  Undefined index: background_color in /home/s1091257/public_html/admin/handle/index.php on line 11
+[06-Apr-2017 23:19:57 Australia/Melbourne] PHP Notice:  Undefined index: background_color in /home/s1091257/public_html/admin/handle/index.php on line 11
+[06-Apr-2017 23:32:23 Australia/Melbourne] PHP Notice:  Undefined variable: path in /home/s1091257/public_html/admin/handle/events.php on line 34
+[06-Apr-2017 23:32:23 Australia/Melbourne] PHP Warning:  getimagesize(50th_Anniversary_Banner_v2.jpg-255359f22d6c31437cff140bc6a85168.png): failed to open stream: No such file or directory in /home/s1091257/public_html/include/classes/SimpleImage.php on line 105
+[06-Apr-2017 23:32:23 Australia/Melbourne] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 143
+[06-Apr-2017 23:32:23 Australia/Melbourne] PHP Warning:  Division by zero in /home/s1091257/public_html/include/classes/SimpleImage.php on line 154
+[06-Apr-2017 23:32:23 Australia/Melbourne] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 146
+[06-Apr-2017 23:32:23 Australia/Melbourne] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/s1091257/public_html/include/classes/SimpleImage.php on line 164
+[06-Apr-2017 23:32:23 Australia/Melbourne] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 143
+[06-Apr-2017 23:32:23 Australia/Melbourne] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 146
+[06-Apr-2017 23:32:23 Australia/Melbourne] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 165
+[06-Apr-2017 23:32:23 Australia/Melbourne] PHP Notice:  Undefined variable: path in /home/s1091257/public_html/admin/handle/events.php on line 37
+[18-Apr-2017 21:15:22 Australia/Melbourne] PHP Notice:  Undefined variable: path in /home/s1091257/public_html/admin/handle/events.php on line 34
+[18-Apr-2017 21:15:22 Australia/Melbourne] PHP Warning:  getimagesize(TRIVIA-5.jpg-227f8392c6a82cda5cd9712dafe72956.png): failed to open stream: No such file or directory in /home/s1091257/public_html/include/classes/SimpleImage.php on line 105
+[18-Apr-2017 21:15:22 Australia/Melbourne] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 143
+[18-Apr-2017 21:15:22 Australia/Melbourne] PHP Warning:  Division by zero in /home/s1091257/public_html/include/classes/SimpleImage.php on line 154
+[18-Apr-2017 21:15:22 Australia/Melbourne] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 146
+[18-Apr-2017 21:15:22 Australia/Melbourne] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/s1091257/public_html/include/classes/SimpleImage.php on line 164
+[18-Apr-2017 21:15:22 Australia/Melbourne] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 143
+[18-Apr-2017 21:15:22 Australia/Melbourne] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 146
+[18-Apr-2017 21:15:22 Australia/Melbourne] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 165
+[18-Apr-2017 21:15:22 Australia/Melbourne] PHP Notice:  Undefined variable: path in /home/s1091257/public_html/admin/handle/events.php on line 37
+[26-Apr-2017 14:32:37 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[05-May-2017 15:11:23 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/gallery.php on line 34
+[05-May-2017 15:11:23 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/gallery.php on line 34
+[05-May-2017 15:11:23 Australia/Melbourne] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 143
+[05-May-2017 15:11:23 Australia/Melbourne] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 146
+[05-May-2017 15:11:23 Australia/Melbourne] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 165
+[05-May-2017 15:16:42 Australia/Melbourne] PHP Notice:  Undefined variable: path in /home/s1091257/public_html/admin/handle/newsletters.php on line 28
+[05-May-2017 15:16:42 Australia/Melbourne] PHP Warning:  getimagesize(screenshot3.jpg-4546e35eef0691d949e58f47828b7f90.png): failed to open stream: No such file or directory in /home/s1091257/public_html/include/classes/SimpleImage.php on line 105
+[05-May-2017 15:16:42 Australia/Melbourne] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 143
+[05-May-2017 15:16:42 Australia/Melbourne] PHP Warning:  Division by zero in /home/s1091257/public_html/include/classes/SimpleImage.php on line 154
+[05-May-2017 15:16:42 Australia/Melbourne] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 146
+[05-May-2017 15:16:42 Australia/Melbourne] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/s1091257/public_html/include/classes/SimpleImage.php on line 164
+[05-May-2017 15:16:42 Australia/Melbourne] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 143
+[05-May-2017 15:16:42 Australia/Melbourne] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 146
+[05-May-2017 15:16:42 Australia/Melbourne] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 165
+[05-May-2017 15:16:42 Australia/Melbourne] PHP Notice:  Undefined variable: path in /home/s1091257/public_html/admin/handle/newsletters.php on line 31
+[05-May-2017 15:19:58 Australia/Melbourne] PHP Notice:  Undefined variable: path in /home/s1091257/public_html/admin/handle/newsletters.php on line 28
+[05-May-2017 15:19:58 Australia/Melbourne] PHP Warning:  getimagesize(screenshot4.jpg-d37ba93c133a6ec5c5bdeb4815500735.png): failed to open stream: No such file or directory in /home/s1091257/public_html/include/classes/SimpleImage.php on line 105
+[05-May-2017 15:19:58 Australia/Melbourne] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 143
+[05-May-2017 15:19:58 Australia/Melbourne] PHP Warning:  Division by zero in /home/s1091257/public_html/include/classes/SimpleImage.php on line 154
+[05-May-2017 15:19:58 Australia/Melbourne] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 146
+[05-May-2017 15:19:58 Australia/Melbourne] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/s1091257/public_html/include/classes/SimpleImage.php on line 164
+[05-May-2017 15:19:58 Australia/Melbourne] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 143
+[05-May-2017 15:19:58 Australia/Melbourne] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 146
+[05-May-2017 15:19:58 Australia/Melbourne] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/s1091257/public_html/include/classes/SimpleImage.php on line 165
+[05-May-2017 15:19:58 Australia/Melbourne] PHP Notice:  Undefined variable: path in /home/s1091257/public_html/admin/handle/newsletters.php on line 31
+[05-May-2017 15:43:49 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/gallery.php on line 34
+[05-May-2017 15:43:49 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/gallery.php on line 34
+[05-May-2017 15:44:23 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/gallery.php on line 34
+[05-May-2017 15:44:23 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/gallery.php on line 34
+[05-May-2017 15:47:08 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/gallery.php on line 34
+[05-May-2017 15:47:08 Australia/Melbourne] PHP Notice:  Undefined index: id in /home/s1091257/public_html/admin/handle/gallery.php on line 34
+[05-May-2017 15:51:16 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[17-May-2017 21:36:06 Australia/Melbourne] PHP Notice:  Undefined index: background_color in /home/s1091257/public_html/admin/handle/index.php on line 11
+[20-Jun-2017 09:02:54 Australia/Melbourne] PHP Notice:  Undefined index: background_color in /home/s1091257/public_html/admin/handle/index.php on line 11
+[06-Aug-2017 20:42:21 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[06-Aug-2017 20:43:08 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s1091257/public_html/include/functions.php:1707) in /home/s1091257/public_html/admin/handle/enrolment-pdfs.php on line 37
+[27-Oct-2017 18:43:05 Australia/Melbourne] PHP Notice:  Undefined index: background_color in /home/s1091257/public_html/admin/handle/index.php on line 11
