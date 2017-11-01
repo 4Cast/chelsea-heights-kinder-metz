@@ -2,7 +2,7 @@
 	include_once 'include/header.php';
 ?>
 	<div id="slideshow" class="">
-		<div class="row">
+		<div class="inner-row">
 			<div class="small-12 medium-12 large-12 columns">
 				<div
 					class="cycle-slideshow"
@@ -62,11 +62,9 @@
 <p>Find out what’s on at Chelsea Heights Kindergarten during 2017 and beyond. Click the date in the calendar or visit latest news page for more information on the upcoming events.</p>
 			</div>
 
-			<div class="small-12 medium-4 large-4 columns">
-				<?php
-					include 'events-calendar-widget.php';
-				?>
-			</div>
+			<!-- <div class="small-12 medium-4 large-4 columns">
+
+			</div> -->
 		</div>
 	</div>
 

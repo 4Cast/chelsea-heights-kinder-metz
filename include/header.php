@@ -35,7 +35,7 @@
 		<link rel="stylesheet" type="text/css" href="<?php echo $default_path;?>js/jquery-ui-1.8.18.custom/css/ui-lightness/jquery-ui-1.8.18.custom.css" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 
-		<link rel="stylesheet" href="<?php echo $default_path;?>include/foundation5/css/foundation.css">
+
 		<link rel="stylesheet" href="<?php echo $default_path;?>css/style.css">
 		<link rel="stylesheet" href="<?php echo $default_path;?>css/home.css">
 		<link rel="stylesheet" href="<?php echo $default_path;?>css/header.css">
@@ -138,44 +138,36 @@
 
 	<body>
 
-		<!-- <div class='container-fluid'>
+		<div class='container-fluid'>
 			<div class="row">
 				<div class="col-sm-12">
 		<div style="background-color:pink; height:100px;">
 		</div>
-	</div> -->
+	</div>
 
-	<!-- <div class="row">
-		<div class="col-sm-12"> -->
+	<div class="row">
+		<div class="col-sm-12">
 		<div id="header-section">
 
-			<div class="row" id="header">
+			<div class="inner-row" id="header">
+				<div class="row">
 				<div class="large-3 medium-3 columns hide-for-small">
-					<a href="<?php echo $default_path;?>"><img alt="Chelsea Heights Kindergarten" src="<?php echo $default_path;?>images/header/Chelsea-Heights-Kindergarten.png" /></a>
+					<a href="<?php echo $default_path;?>"><img alt="Chelsea Heights Kindergarten" src="/images/header/Chelsea-Heights-Kindergarten.png" /></a>
 				</div>
 
 				<div class="large-6 medium-6 columns hide-for-small padded-top-20">
 					<img src="<?php echo $default_path;?>images/header/Header_LogoDetails.png" />
 				</div>
-
-				<div class="small-12 medium-12 large-12 columns top-header">
-					<nav class="mobile-top-menu show-for-small">
-						<ul>
-							<li>
-								<a class="sleft-off-canvas-toggle " href="#" >
-									<img id="menu-icon" src="<?php echo $default_path;?>images/icons/mobile-menu.png" />
-									<img id="mobile-logo" src="<?php echo $default_path;?>images/header/mobile-header.png" alt="<?php echo SLOGAN;?>" />
-								</a>
-							</li>
-						</ul>
-					</nav>
-				</div>
 			</div>
+			</div><!-- inner-row -->
+
+
+
 		</div>
 
 		<div id="menu-links">
 
-			<div class="row">
+			<div class="inner-row">
 				<nav class="hide-for-small">
 					<div class="large-12 medium-12 columns" id="main-menu">
 						<ul class="sf-menu superfish">
