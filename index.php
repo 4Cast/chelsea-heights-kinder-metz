@@ -6,7 +6,14 @@
 	<div class='container-fluid'>
 		<div class="row">
 			<div class="col-sm-12">
-				<div style="background-color:pink; height:100px;">
+				<div style="background-color:#cc4e8d; height:100px; color:white; text-align:center;
+					padding-top:30px;
+					font-family:Helvetica, Arial, snas-serif;
+					font-size: 18px;
+					line-spacing: auto;
+					line-height: 0.8;">
+					<p>We have temporarily relocated to 71 Catherine Ave, Chelsea during the renovation of our building at 29 Third Ave.</p>
+					<p>We expect to be back at Third Ave in Term II 2018. (Watch this space for further details.)</p>
 				</div>
 			</div>
 		</div>
@@ -19,11 +26,14 @@
 				<a href="#"><img alt="Chelsea Heights Kindergarten" src="/images/header/Chelsea-Heights-Kindergarten.png" /></a>
 			</div>
 
-			<div class="col col-6">
+			<div class="col col-6" style="padding-top:20px;">
 				<img src="/images/header/Header_LogoDetails.png" />
 			</div>
+			<div class='col col-3'>
+				<img src="/images/places-available.png" width="400px"/>
+			</div>
 
-		<!-- </div><! inner-row --> -->
+		<!-- </div><! inner-row -->
 
 
 
@@ -107,7 +117,7 @@
 			    	<div class="cycle-overlay"></div>
 
 
-					<img class="drop-shadow cycle-slide cycle-slide-active" date-attr="#1892B7" alt="Chelsea Heights Kindergarten" src="/images/home/RotatingBanner_1.jpg" data-cycle-desc="" style="position: absolute; top: 0px; left: 0px; z-index: 99; opacity: 1; display: block; visibility: visible;">
+					<img class="drop-shadow cycle-slide cycle-slide-active" date-attr="#1892B7" alt="Chelsea Heights Kindergarten" src="/images/chk-mural.png" data-cycle-desc="" style="position: absolute; top: 0px; left: 0px; z-index: 99; opacity: 1; display: block; visibility: visible;">
 				</div>
 			</div>
 		</div>
@@ -115,7 +125,7 @@
 </div>
 
 <div class="row">
-	<div>
+	<div class="inner-row">
 	<div class="content-area white-background" id="index-home">
 
 			<div class="small-12 medium-8 large-8 columns">
@@ -126,17 +136,16 @@
 <p>Find out what’s on at Chelsea Heights Kindergarten during 2017 and beyond. Click the date in the calendar or visit latest news page for more information on the upcoming events.</p>
 			</div>
 
-
+</div>
 		</div>
-	</div>
+
 </div>
 
+<div class="inner-row">
+		<div id="home-tile" class="box-shadow tiles">
+
 <div class="row">
-	<div class="inner-row">
-	<div id="home-tile" class="box-shadow">
-
-
-					<div class="small-12 medium-4 large-4 columns">
+					<div class="col col-4">
 						<a href="/parents/arrival-at-kinder">
 
 							<img src="/images/image-tiles/Tile_1.png" class="tile-image box-shadow-image class_1">
@@ -144,7 +153,7 @@
 						</a>
 					</div>
 
-					<div class="small-12 medium-4 large-4 columns">
+					<div class="col col-4">
 						<a href="/program/program-3-year-olds">
 
 							<img src="/images/image-tiles/Tile_2.png" class="tile-image box-shadow-image class_2">
@@ -152,7 +161,7 @@
 						</a>
 					</div>
 
-					<div class="small-12 medium-4 large-4 columns">
+					<div class="col col-4">
 						<a href="/newsletters">
 
 							<img src="/images/image-tiles/Tile_3.png" class="tile-image box-shadow-image class_3">
@@ -160,21 +169,24 @@
 						</a>
 					</div>
 							</div>
-	</div>
+
+</div>
 </div>
 	<div id="footer">
-				<div class="row">
-					<div class="columns large-3 medium-3 small-12">
+				<div class="inner-row">
+					<div class="row">
+					<div class="col col-2">
 						<img src="/images/footer/Footer_Logo.png">
 					</div>
-					<div class="columns large-5 medium-5 small-12" id="business-hours">
+					<div class="col col-6" id="business-hours">
 						<img src="/images/footer/Footer_Tagline.png">
 					</div>
-					<div class="columns large-3 medium-3 small-12" id="fb">
+					<div class="col col-4" id="fb">
 						<a target="_blank" href="https://www.facebook.com/chelseaheightskinder">
 							<img src="/images/footer/Header_Facebook.png">
 						</a>
 					</div>
+				</div>
 				</div>
 			</div>
 			<div id="footer-gutter">

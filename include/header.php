@@ -124,6 +124,16 @@
 			.container-fluid{
 				padding: 0;
 			}
+			.tiles{
+				margin: 0;
+				line-height: 20px;
+			}
+			.tiles-row{
+				width: 100%;
+				margin-left: auto;
+			  margin-right: auto;
+				max-width: 62.5rem;
+			}
 			.inner-row{
 			  width: 100%;
 			  margin-left: auto;
@@ -135,5 +145,3 @@
 
 		</style>
 	</head>
-
-	
